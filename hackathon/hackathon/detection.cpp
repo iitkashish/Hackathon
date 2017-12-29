@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "detection.h"
 
 bool detect::detector::loadAll() {
